@@ -26,7 +26,6 @@
 
 ---
 
-
 ### :woman_technologist: About Me :
 - :telescope: I’m contributing to frontend and  learning backend for building web applications.
 
@@ -53,10 +52,11 @@
 </div>
 
  ---
-
 <div align="center">
-### :fire: My Stats :
   
+  
+###  🔥 My Stats :
+
   
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Gurpreet-Saini&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
