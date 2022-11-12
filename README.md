@@ -27,7 +27,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :telescope: I’m contributing to frontend and  learning backend for building web applications.
+- :telescope: I’m contributing to backend for building web applications.
 
 - :seedling: Exploring Full Stack Development.
 
