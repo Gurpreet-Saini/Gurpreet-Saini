@@ -62,6 +62,6 @@
 
 
 
-[![Top Langs]([![Gurpreet's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gurpreet-Saini)](https://github.com/Gurpreet-Saini/github-readme-stats))](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gurpreet-Saini&hide=html,css&langs_count=8&layout=compact)   
 
   </div>
